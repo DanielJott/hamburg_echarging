@@ -4,6 +4,7 @@
 #folders
 yearly_maps/
 yearly_traffic_maps/
+cache/
 
 geckodriver.log
 heatmap_fixed.html
