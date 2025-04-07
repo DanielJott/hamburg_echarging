@@ -6,6 +6,7 @@ yearly_maps/
 yearly_traffic_maps/
 cache/
 
+traffic_data.ipynb
 geckodriver.log
 heatmap_fixed.html
 ### Python ###
